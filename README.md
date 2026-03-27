@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 
 <div align="center">
-  <h3 align="center">graph-tree-assignment</h3>
+  <h3 align="center">Graph Tree Assignment</h3>
 
   <p align="center">
     A C++ analytical project demonstrating robust Graph implementations via Adjacency Lists and Matrices.
@@ -31,7 +31,7 @@
 
 ## About The Project
 
-`graph-tree-assignment` contains foundational C++ algorithms crafted to model explicit directional logic:
+This project contains foundational C++ algorithms crafted to model explicit directional logic:
 - **`GrafoListaAdyecente.cpp`**: Evaluates optimal pathing and node mapping utilizing sparse Adjacency Lists.
 - **`GrafoMatriz.cpp`**: Establishes rapid dense state lookup utilizing contiguous Adjacency Matrix structures.
 

@@ -1,0 +1,17 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Executables
+# *.exe (Tracked natively within the bin/ folder)
+*.out
+*.app
+
+# IDE Files
+.vscode/
+
+# OS specific files
+.DS_Store
+Thumbs.db
